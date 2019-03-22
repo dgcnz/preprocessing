@@ -1,0 +1,13 @@
+frontend/node_modules/
+.DS_Store
+backend/data/
+backend/dictionaries/context_specific.dic
+resources/abbreviations.json
+resources/bigram.json
+resources/old_bigram.json
+resources/stopwords_es.json
+resources/wiki_slang.json
+resources/glosario.txt
+.env
+backend/.env
+backend/__pycache__
