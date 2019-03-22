@@ -43,6 +43,7 @@ print(new_sentence)
 + Key proximity distance
 + O(mn) dl-distance
 
+
 ## Sources and references:
 
 + [Wagner, Robert. *An Extension of the String-to-String Correction Problem*](https://dl.acm.org/citation.cfm?doid=321879.321880)
