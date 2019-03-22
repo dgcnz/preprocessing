@@ -44,7 +44,7 @@ print(new_sentence)
 + O(mn) dl-distance
 
 
-## Sources and references:
+## Sources and references
 
 + [Wagner, Robert. *An Extension of the String-to-String Correction Problem*](https://dl.acm.org/citation.cfm?doid=321879.321880)
 + [Jurafsky, Dan. *Spelling Correction and the Noisy Channel*](https://web.stanford.edu/class/cs124/lec/spelling.pdf)
